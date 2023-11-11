@@ -49,7 +49,7 @@ Do I feel change in my mental state?
 - [ ] No
 What has changed?
 ### Plan
-[[Трейдинг/Journal/Analysis/10.11.2023, EURUSD\|10.11.2023, EURUSD]]
+[[Трейдинг/Journal/Analysis/Nov. W1/10.11.2023, EURUSD\|10.11.2023, EURUSD]]
 ___
 ### Analysis
 ![](https://www.tradingview.com/x/0Lz8uxWN/)
