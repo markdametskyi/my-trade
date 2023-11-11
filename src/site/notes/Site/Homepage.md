@@ -15,13 +15,16 @@
 ## [[Трейдинг/Journal/Journal\|Journal]]:
 1. [[Трейдинг/Journal/Trade №1\|Trade №1]]
 2. [[Трейдинг/Journal/Trade №2\|Trade №2]]
-## Pre-/Post-market Analysis за 30.10.2023 (сьогодні):
+## Pre-/Post-market Analysis за 10.11.2023 (вчора):
 - [[Трейдинг/Journal/Analysis/30.10.2023, EURUSD\|30.10.2023, EURUSD]]
 - [[Трейдинг/Journal/Analysis/31.10.2023, EURUSD\|31.10.2023, EURUSD]]
 - [[Трейдинг/Journal/Analysis/01.11.2023, EURUSD\|01.11.2023, EURUSD]]
 - [[Трейдинг/Journal/Analysis/02.11.2023, EURUSD\|02.11.2023, EURUSD]]
-- [[Трейдинг/Journal/Analysis/06.11.2023, EURUSD\|06.11.2023, EURUSD]]
-- [[Трейдинг/Journal/Analysis/07.11.2023, EURUSD\|07.11.2023, EURUSD]]
-- [[Трейдинг/Journal/Analysis/08.11.2023, EURUSD\|08.11.2023, EURUSD]]
-- [[Трейдинг/Journal/Analysis/09.11.2023, EURUSD\|09.11.2023, EURUSD]]
-- [[Трейдинг/Journal/Analysis/10.11.2023, EURUSD\|10.11.2023, EURUSD]]
+- [[Трейдинг/Journal/Analysis/Nov. W1/06.11.2023, EURUSD\|06.11.2023, EURUSD]]
+- [[Трейдинг/Journal/Analysis/Nov. W1/07.11.2023, EURUSD\|07.11.2023, EURUSD]]
+- [[Трейдинг/Journal/Analysis/Nov. W1/08.11.2023, EURUSD\|08.11.2023, EURUSD]]
+- [[Трейдинг/Journal/Analysis/Nov. W1/09.11.2023, EURUSD\|09.11.2023, EURUSD]]
+- [[Трейдинг/Journal/Analysis/Nov. W1/10.11.2023, EURUSD\|10.11.2023, EURUSD]]
+
+## WPA (November):
+- [[Трейдинг/Journal/Analysis/Nov. W1/Nov. W1 Weekly Performance Analysis\|Nov. W1 Weekly Performance Analysis]]
