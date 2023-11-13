@@ -25,6 +25,7 @@
 - [[Трейдинг/Journal/Analysis/Nov. W1/08.11.2023, EURUSD\|08.11.2023, EURUSD]]
 - [[Трейдинг/Journal/Analysis/Nov. W1/09.11.2023, EURUSD\|09.11.2023, EURUSD]]
 - [[Трейдинг/Journal/Analysis/Nov. W1/10.11.2023, EURUSD\|10.11.2023, EURUSD]]
+- [[Трейдинг/Journal/Analysis/Nov. W2/13.11.2023, EURUSD\|13.11.2023, EURUSD]]
 
 ## WPA (November):
 - [[Трейдинг/Journal/Analysis/Nov. W1/Nov. W1 Weekly Performance Analysis\|Nov. W1 Weekly Performance Analysis]]
