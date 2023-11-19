@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/site/homepage/","tags":["gardenEntry"]}
 ---
 
-
 # Список доступних нотаток:
 1. [[Трейдинг/T9 RT→ Cont. POI → Continuation\|T9 RT→ Cont. POI → Continuation]]
 2. [[Трейдинг/T10 FTA xTF → POI xTF = High Probability\|T10 FTA xTF → POI xTF = High Probability]]
@@ -15,7 +14,9 @@
 ## [[Трейдинг/Journal/Journal\|Journal]]:
 1. [[Трейдинг/Journal/Trade №1\|Trade №1]]
 2. [[Трейдинг/Journal/Trade №2\|Trade №2]]
-## Pre-/Post-market Analysis за 10.11.2023 (вчора):
+3. [[Трейдинг/Journal/Trade №3\|Trade №3]]
+4. [[Трейдинг/Journal/Trade №4\|Trade №4]]
+## Pre-/Post-market Analysis за 17.11.2023 (вчора):
 - [[Трейдинг/Journal/Analysis/30.10.2023, EURUSD\|30.10.2023, EURUSD]]
 - [[Трейдинг/Journal/Analysis/31.10.2023, EURUSD\|31.10.2023, EURUSD]]
 - [[Трейдинг/Journal/Analysis/01.11.2023, EURUSD\|01.11.2023, EURUSD]]
@@ -26,6 +27,11 @@
 - [[Трейдинг/Journal/Analysis/Nov. W1/09.11.2023, EURUSD\|09.11.2023, EURUSD]]
 - [[Трейдинг/Journal/Analysis/Nov. W1/10.11.2023, EURUSD\|10.11.2023, EURUSD]]
 - [[Трейдинг/Journal/Analysis/Nov. W2/13.11.2023, EURUSD\|13.11.2023, EURUSD]]
+- [[Трейдинг/Journal/Analysis/Nov. W2/14.11.2023, EURUSD\|14.11.2023, EURUSD]]
+- [[Трейдинг/Journal/Analysis/Nov. W2/15.11.2023, EURUSD\|15.11.2023, EURUSD]]
+- [[Трейдинг/Journal/Analysis/Nov. W2/16.11.2023, EURUSD\|16.11.2023, EURUSD]]
+- [[Трейдинг/Journal/Analysis/Nov. W2/17.11.2023, EURUSD\|17.11.2023, EURUSD]]
 
 ## WPA (November):
 - [[Трейдинг/Journal/Analysis/Nov. W1/Nov. W1 Weekly Performance Analysis\|Nov. W1 Weekly Performance Analysis]]
+- [[Трейдинг/Journal/Analysis/Nov. W2/Nov. W2 WPA\|Nov. W2 WPA]]
