@@ -1,0 +1,6 @@
+---
+{"dg-publish":true,"permalink":"/trading/t10-fta-x-tf-poi-x-tf-high-probability/","tags":["trading/note"]}
+---
+
+**Якщо ціна отримує rejection від FTA на H1, то прийти вона має в POI на тому ж таймфреймі, щоб позиції звідти могли вважатись High Probability.**
+Тут можна зробити відсилку на [[Trading/Journal/Trade №1 (note)\|Trade №1 (note)]], де ціна після того як тригернула FTA на H1 отримала rejection в область m15 SIBI, звідти нічого толкового не відбулось. Відповідно формуючи Trenline LQ ціна протестила новосформований годинний дисбаланс і дала від нього істинну реакцію на продовження.
